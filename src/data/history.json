@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Social media",
+    "organisation": "MR3 comunicações",
+    "startDate": "Out, 2021",
+    "endDate": "Jan, 2022",
+    "experiences": ["I worked directly with clients to get approval for posts", "I managed social media content and created landing pages."],
+    "imageSrc": "history/mr3.jpg"
+  },
+  {
+    "role": "Social media",
+    "organisation": "Ellos Design",
+    "startDate": "May, 2023",
+    "endDate": "Jul, 2023",
+    "experiences":["Worked in social media management.", "I have experience in copywriting and creating visuals."],
+    "imageSrc": "history/ellosDesign.jpg"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "UFPB",
+    "startDate": "Jul, 2023",
+    "endDate": "Present",
+    "experiences": ["I manage the social media for PPGCJ at the Federal University of Paraíba.", "I develop posts and campaigns."],
+    "imageSrc": "history/ufpb.png"
+  }
+]

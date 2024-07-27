@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Travel project",
+    "imageSrc": "projects/viagens.png",
+    "description": "This project was developed to enhance my skills in React, focusing on building dynamic user interfaces, managing state.",
+    "skills": ["React"],
+    "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7164795376489775104/",
+    "source": "https://github.com/RayaraVilar/site_viagens/tree/master"
+  },
+  {
+    "title": "Ecommerce with Wordpress",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "This project was undertaken with the intention of learning more about WordPress and eCommerce.",
+    "skills": ["Wordpress"],
+    "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7221858894485065732/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Healthy living project",
+    "imageSrc": "projects/food.png",
+    "description": "This was one of my first projects attempting to implement JavaScript to make the website more dynamic.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7163486209741172736/",
+    "source": "https://github.com/RayaraVilar/estudo-site01/tree/master/estudo-site01-main/ex-restaurante-20240211T184846Z-001/ex-restaurante"
+  },
+  {
+    "title": "Template",
+    "imageSrc": "projects/template.png",
+    "description": "Attempt to replicate an online template.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.linkedin.com/posts/rayara-vilar-174544236_check-out-the-video-of-the-project-im-developing-activity-7163289251353247745-j1TS?utm_source=share&utm_medium=member_desktop",
+    "source": "https://github.com/RayaraVilar/recriando_template"
+  },
+  {
+    "title": "Construction",
+    "imageSrc": "projects/construction.png",
+    "description": "Construction",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Construction",
+    "imageSrc": "projects/construction.png",
+    "description": "Construction",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
