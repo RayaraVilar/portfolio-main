@@ -13,18 +13,18 @@ export const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:myemail@email.com">ravtra301@gmail.com</a>
+          <a href="mailto:ravtra301@gmail.com">ravtra301@gmail.com</a>
         </li>
         <li className={styles.link}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/myname">https://www.linkedin.com/in/rayara-vilar-174544236/</a>
+          <a href="https://www.linkedin.com/in/rayara-vilar-174544236/">https://www.linkedin.com/in/rayara-vilar-174544236/</a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://www.github.com/myname">https://github.com/RayaraVilar</a>
+          <a href="https://github.com/RayaraVilar">https://github.com/RayaraVilar</a>
         </li>
       </ul>
     </footer>
